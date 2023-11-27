@@ -3,7 +3,7 @@
 ## Installation
 1. Install [NodeJS](https://nodejs.org/). Recommended way is using [rbenv](https://github.com/nodenv/nodenv#installation).
 
-2. Clone repo and go to the folder. It is assumed that you comfortable with [Git](https://git-scm.com/).
+2. Clone repo and go to the folder. It is assumed that you are comfortable with [Git](https://git-scm.com/).
 ```bash
 git clone https://github.com/edwardbako/3dmap.git
 cd ./3dmap
