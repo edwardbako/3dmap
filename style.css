@@ -32,6 +32,13 @@ body {
 }
 
 h1 {
+  color: #444444;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  text-align: center;
+  z-index: 100;
+  display: block;
   font-size: 3.2em;
   line-height: 1.1;
 }
